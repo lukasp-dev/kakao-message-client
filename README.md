@@ -10,6 +10,31 @@ In KakaoTalk, the ability to send the same message to multiple friends simultane
 
 ---
 
+## Used Technologies
+
+### IDE
+[![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+### Languages / Frameworks
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/) 
+[![Express](https://img.shields.io/badge/Express-404D59?logo=express&logoColor=white)](https://expressjs.com/) 
+[![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)](https://www.electronjs.org/) 
+[![Recoil](https://img.shields.io/badge/Recoil-20232A?logo=recoil&logoColor=blue)](https://recoiljs.org/) 
+
+### Cloud Services
+[![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/) 
+[![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazon-ec2&logoColor=white)](https://aws.amazon.com/ec2/) 
+[![AWS Route 53](https://img.shields.io/badge/AWS_Route%2053-232F3E?logo=amazon-route53&logoColor=white)](https://aws.amazon.com/route53/) 
+
+### Other Technologies
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/) 
+[![Notion API](https://img.shields.io/badge/Notion_API-000000?logo=notion&logoColor=white)](https://developers.notion.com/)
+
+---
+
 ## System Architecture
 
 The app's robust architecture ensures secure, scalable, and seamless functionality by leveraging the following technologies:
