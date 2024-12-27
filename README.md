@@ -18,7 +18,7 @@ In KakaoTalk, the ability to send the same message to multiple friends simultane
 ### Languages / Frameworks
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
+[![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?logo=styled-components&logoColor=white)](https://styled-components.com/) 
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/) 
 [![Express](https://img.shields.io/badge/Express-404D59?logo=express&logoColor=white)](https://expressjs.com/) 
 [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)](https://www.electronjs.org/) 
