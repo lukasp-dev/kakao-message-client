@@ -1,7 +1,3 @@
-Here's an improved version of your `README.md` with better image placement and alignment. The goal is to make it visually appealing while maintaining clarity and flow.
-
----
-
 # Gallery SOMA Notification App
 
 ## Introduction
