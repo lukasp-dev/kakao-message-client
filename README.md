@@ -58,7 +58,7 @@ The app's streamlined workflow ensures intuitive operation for users:
 ### **Login Screen**
 
 <div align="center">
-  <img src="https://lukas-portfolio.s3.us-east-2.amazonaws.com/dd209dc042f1de895de2ae8f9f2855fc.jpg" alt="Login Screen" width="60%">
+  <img src="https://lukas-portfolio.s3.us-east-2.amazonaws.com/3ca70d7657f028de6c1511b6119732dd.jpg" alt="Login Screen" width="60%">
 </div>
 
 The user logs in by entering their KakaoTalk ID and password. If authenticated, the friend list is loaded for selection.
@@ -68,7 +68,7 @@ The user logs in by entering their KakaoTalk ID and password. If authenticated, 
 ### **Message Composition**
 
 <div align="center">
-  <img src="https://lukas-portfolio.s3.us-east-2.amazonaws.com/3ca70d7657f028de6c1511b6119732dd.jpg" alt="Message Composition" width="60%">
+  <img src="https://lukas-portfolio.s3.us-east-2.amazonaws.com/ec0ffb8b5ff8c5c0db08a56db8277ce8.jpg" alt="Message Composition" width="60%">
 </div>
 
 Users can select a message template (text-only or text + image) and draft the desired content for broadcasting.
@@ -78,7 +78,7 @@ Users can select a message template (text-only or text + image) and draft the de
 ### **Bulk Messaging**
 
 <div align="center">
-  <img src="https://lukas-portfolio.s3.us-east-2.amazonaws.com/d4603f82d9766d41f905c65f89fdb2d7.jpg" alt="Bulk Messaging" width="60%">
+  <img src="https://lukas-portfolio.s3.us-east-2.amazonaws.com/e18f42cc012da97e82040a225947bad9.jpg" alt="Bulk Messaging" width="60%">
 </div>
 
 Once the message is composed, users can confirm delivery and send it to all selected friends at once, saving significant time and effort.
